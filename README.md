@@ -1,2 +1,2 @@
-# kuliah
-berisi tugas tugas
+# College
+berisi tugas tugas SM 3
